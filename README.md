@@ -1,5 +1,7 @@
 # Apps4Gaps
 
+'N/a' has been replaced with '0' in the price data to simplify the charting process.
+
 Domestic fuel price data is formatted in CSV format at https://github.com/EnergyPriceTransparency/Apps4Gaps/blob/master/Data/DomesticFuelCostsFinal.csv
 
 And in Excel format at https://github.com/EnergyPriceTransparency/Apps4Gaps/blob/master/Data/DomesticFuelCostsFinal.xlsx
