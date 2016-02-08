@@ -8,6 +8,13 @@ And in Excel format at https://github.com/EnergyPriceTransparency/Apps4Gaps/blob
 
 (The first sheet 'CostsPerkWhValuesOnly' gives the data in values only form, i.e. no formulae).
 
+Commercial fuel price data is formatted in CSV format at:
+https://github.com/EnergyPriceTransparency/Apps4Gaps/blob/master/Data/CommercialFuelCostsFinal.csv
+
+And in Excel format at  https://github.com/EnergyPriceTransparency/Apps4Gaps/blob/master/Data/CommercialFuelCostsFinal.xlsx
+
+(The first sheet 'PricePerkWhValues' gives the data in values only form, i.e. no formulae).
+
 Price data is given in EUR / kWh. 
 
 A trend of domestic fuel price data is available at https://github.com/EnergyPriceTransparency/Apps4Gaps/blob/master/Figures/DomesticPriceTrend.pdf
